@@ -1,0 +1,256 @@
+.navbar-header{
+    color: black;
+}
+
+.navbar{
+    padding-top: 1rem;
+    background-color: white;
+}
+
+.nav{
+    text-align: right;
+}
+
+.navbar-brand{
+    margin-right: 40rem;
+    padding-top: 1rem;
+    color: black;
+    font-family: "Montserrate-dark";
+    size: 3rem;
+
+}
+.navbar-brand:hover{
+    color:black;
+}
+
+.active{
+    padding-right: 1rem;
+}
+
+.nav-link{
+    color: black;
+    font-family: "Montserrate-light";
+}
+
+.nav-link:hover{
+    color: #ef8172;
+}
+
+/* home page */
+.masthead{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    font-family:fantasy,Copperplate;
+    font-size: 70px;
+}
+.intro{
+    color: #D43F52;
+}
+.icons{
+  
+  margin-bottom: 3rem;
+}
+
+header.masthead{
+    padding-top: 15rem;
+    padding-bottom: calc(10rem - 4.5rem)
+}
+.toskill:hover{
+   background-color: #D43F52;
+   color: white;
+   border-color: black;
+}
+
+.skill-thumb{
+    background-color: #E3AE57;
+    text-align: center;
+}
+
+.wow{
+    padding: 5rem;
+}
+
+.progress{
+    margin: 2rem 2rem;
+}
+
+.section-title{
+    color:white;
+}
+
+/* Describing my skills */
+#experience{
+    max-width: 2000px;
+   
+}
+.skill{
+    max-width: 100%;
+}
+
+.Design{
+    color: white;
+    background-color: #E3AE57;
+    text-align: center;
+    width: 350px;
+}
+
+.Strategy{
+    color: white;
+    background-color: #E9724C;
+    text-align: center;
+    width: 100%;
+    margin-left: 0;
+    width: 350px;
+    
+}
+
+.Mobile{
+    color: white;
+    text-align: center;
+    width: 350px;
+    
+}
+
+.Coding{
+    color:black;
+    text-align: center;
+    width: 350px;
+}
+.fa-html5:hover{
+    color: #D43F52;
+}
+.fa-desktop:hover{
+    color: #D43F52;
+}
+.fa-table:hover{
+   color: #D43F52;
+}
+.fa-code:hover{
+    color: #D43F52;
+}
+
+/* Contact me form */
+
+#contact{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact-title{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:sans-serif,Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+.phone{
+    color: grey;
+    font-size: 18px;
+}
+.envelope{
+    color: grey;
+    font-size: 18px;
+}
+.marker{
+    color: grey;
+    font-size: 18px;
+}
+.fa-phone{
+
+ color: #D43F52; 
+ padding-right: 2rem;
+}
+.fa-envelope-o{
+    color: #D43F52; 
+    padding-right: 2rem;
+}
+.fa-map-marker{
+    color: #D43F52; 
+    padding-right: 2rem;
+}
+
+/* form */
+#name{
+    background-color: black;
+    color: white;
+    margin-bottom: 2rem;
+}
+#email{
+    background-color: black;
+    color: white;
+    margin-bottom: 2rem;
+}
+#message{
+    background-color: black;
+    color: white;
+    margin-bottom: 2rem;
+}
+#send{
+    background-color: #D43F52;
+    border-color:#D43F52; ;
+    color: white;
+    border-radius: 0px;
+    font-weight:bold ;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    width: 420px;
+    
+}
+#send:hover{
+    background-color:white ;
+    color: #D43F52;
+    border-color: white;
+}
+
+/* footer */
+.footer{
+    background-color: black;
+    border-top: 0px solid #090909;
+    text-align: center;
+    padding-top: 170px;
+    padding-bottom: 20px;
+    border-left: 0rem;
+    max-width: 2000px;
+    
+}
+.copy{
+    color: white;
+}
+.fa-facebook{
+    color: grey;
+    padding: 1rem;
+}
+.fa-facebook:hover{
+    color:#D43F52; ;
+}
+.fa-twitter{
+    color: grey;
+    padding: 1rem;
+}
+.fa-twitter:hover{
+    color:#D43F52; ;
+}
+.fa-instagram{
+    color: grey;
+    padding:1rem
+}
+.fa-instagram:hover{
+    color:#D43F52; ;
+}
+.fa-linkedin{
+    color: grey;
+    padding:1rem
+}
+.fa-linkedin:hover{
+    color:#D43F52; ;
+}
+.fa-github{
+    color: grey;
+    padding:1rem
+}
+.fa-github:hover{
+    color:#D43F52; ;
+}
